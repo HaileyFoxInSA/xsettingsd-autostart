@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/xsettingsd-autostart.sh
+Icon=xterm
+Hidden=false
+NoDisplay=false
+Name=xsettingsd-autostart.sh
+Name[en_GB]=xsettingsd-autostart.sh
+Comment=xsettingsd Autostart
+Comment[en_GB]=xsettingsd Autostart
+X-GNOME-Autostart-Delay=10
+X-GNOME-Autostart-enabled=true
